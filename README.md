@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm a self-taught web developer!
+
+🔭 I’m currently working on mastering my web development skills.
+🌱 I’m currently learning JavaScript and Python to strengthen my coding arsenal.
+👯 I’m not looking to collaborate just yet, as I’m focused on creating projects independently.
+⚡ Fun fact: My educational background is completely unrelated to programming, but I made the leap because it’s never too late to change paths!
 
 <!--
 **Ilaria-888/Ilaria-888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
